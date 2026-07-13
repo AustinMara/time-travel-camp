@@ -1,3 +1,20 @@
+## Links to Lessons For Each Day:
+**Day 1:** https://arcade.makecode.com/#tutorial:https://github.com/austinmara/time-travel-camp/day1-dino-dash
+
+https://tinyurl.com/34eade4v
+
+**Day 2:** https://arcade.makecode.com/#tutorial:https://github.com/austinmara/time-travel-camp/day2-castle-clash
+
+https://tinyurl.com/4p58hh9z
+
+**Day 3:** https://arcade.makecode.com/#tutorial:https://github.com/austinmara/time-travel-camp/day3-gold-rush
+
+https://tinyurl.com/7ts26zxb
+
+**Day 4:** 
+https://arcade.makecode.com/#tutorial:https://github.com/austinmara/time-travel-camp/day4-cosmic-comeback
+
+https://tinyurl.com/4berc6jf
  
 
 
